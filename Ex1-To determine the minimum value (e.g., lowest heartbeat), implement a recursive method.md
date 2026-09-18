@@ -11,12 +11,13 @@ To write a JAVA program To determine the minimum value (e.g., lowest heartbeat),
 5. Compare the current element arr[i] with the minimum of the rest and return the smaller value.   
 
 ## Program:
-```
+``` Java
 /*
 Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
 Developed by: PRIYA DHARSHNI S
 RegisterNumber: 212224100045
 
+*/
 import java.util.*;
 
 public class Main {
@@ -42,7 +43,6 @@ public class Main {
     }
 }
 
-*/
 ```
 
 ## Output:
